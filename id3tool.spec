@@ -10,6 +10,7 @@ License:	BSD
 Group:		Sound
 Url:		http://kitsumi.xware.cx/id3tool/
 Source0:	http://kitsumi.xware.cx/id3tool/%{name}-%{version}.tar.bz2
+BuildRoot: 	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 id3tool: a program for manipulating mp3 ID3 Tags 
