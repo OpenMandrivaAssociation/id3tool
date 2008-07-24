@@ -1,6 +1,6 @@
 %define name 	id3tool
 %define version 1.2a
-%define release  %mkrel 1
+%define release  %mkrel 3
 
 Summary:	Id3tool: program for manipulating mp3 ID3 Tags
 Name: 		%{name}
