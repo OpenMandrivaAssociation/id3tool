@@ -2,7 +2,7 @@
 %define version 1.2a
 %define release  %mkrel 5
 
-Summary:	Id3tool: program for manipulating mp3 ID3 Tags
+Summary:	: program for manipulating mp3 ID3 Tags
 Name: 		%{name}
 Version: 	%{version}
 Release: 	%{release}
