@@ -1,7 +1,7 @@
 Summary:	A program for manipulating mp3 ID3 Tags
 Name: 		id3tool
 Version: 	1.2a
-Release: 	6
+Release: 	7
 License:	BSD
 Group:		Sound
 Url:		http://kitsumi.xware.cx/id3tool/
