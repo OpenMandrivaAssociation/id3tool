@@ -4,7 +4,7 @@ Version: 	1.2a
 Release: 	7
 License:	BSD
 Group:		Sound
-Url:		http://kitsumi.xware.cx/id3tool/
+Url:		https://kitsumi.xware.cx/id3tool/
 Source0:	http://kitsumi.xware.cx/id3tool/%{name}-%{version}.tar.bz2
 
 %description
