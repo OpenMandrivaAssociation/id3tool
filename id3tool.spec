@@ -7,6 +7,11 @@ Group:		Sound
 Url:		https://kitsumi.xware.cx/id3tool/
 Source0:	http://kitsumi.xware.cx/id3tool/%{name}-%{version}.tar.bz2
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 id3tool: a program for manipulating mp3 ID3 Tags 
 
